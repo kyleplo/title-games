@@ -1,0 +1,1 @@
+javascript:(function () {var script=document.createElement('script');script.src='https://kyleplo.github.io/title-games/basic.js';script.className='titlegames';document.body.appendChild(script);}())
